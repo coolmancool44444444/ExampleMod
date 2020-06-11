@@ -1,4 +1,4 @@
-# ExampleMod
+# op
 An example of a simple mod for Mindustry.
 
 ## Importing
